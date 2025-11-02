@@ -1,0 +1,1 @@
+Features that weren't implemented: Call safety/911, button to close and button to open. Assumption is that there won't be an extraneous amount of floors or amount of people inside and there's no actual dimensions.
